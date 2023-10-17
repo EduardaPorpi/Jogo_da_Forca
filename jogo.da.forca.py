@@ -1,3 +1,4 @@
+#P.s : ainda em estudo! Pretendo melhorar e inovar alguns detalhes, atualizações em breve
 palavra = "plantas"
 tentativas = 7
 chute = []
